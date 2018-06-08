@@ -7,9 +7,9 @@ This website is created with HTML, CSS and Javascript, it allows a user to enter
 Specs
 Spec	Input	Output
 Homepage	User accesses localhost:5004	Homepage with user input form
-Program
-Program
-Program
+Program replace 0 with "Beep!" input: 0 output: ["Beep!"]
+Program replace 1 with "Boop!"
+Program replace numbers divisable by 3 with, "I'm sorry, Dave.  I'm afraid I can't do that."
 Program
 **takes a number from a user and returns a range of numbers from 0 to the chosen number
 with the following exceptions:
