@@ -7,15 +7,19 @@ This website is created with HTML, CSS and Javascript, it allows a user to enter
 Specs
 Spec	Input	Output
 Homepage	User accesses localhost:5004	Homepage with user input form
-Program Returns when a year in not a leap year.	User input Ex.: "1993"	Output: "false"
-Program Returns 'true' for years divisible by 4	User Input: "2004"	Output: "false"
-Program returns 'false' for years divisible by 100	Input: "1900"	Output: "false"
-Program return true for years divisible by 400	Input: "2000"	Output: "true"
+Program
+Program
+Program
+Program
 **takes a number from a user and returns a range of numbers from 0 to the chosen number
-**1.
+with the following exceptions:
+Numbers that contain a 0 are replaced (all digits) with "Beep!"
+Numbers that contain a 1 are replaced (all digits) with "Boop!"
+Numbers divisible by 3 are replaced with "I'm sorry, Dave. I'm afraid I can't do that."
+**1.  
 **2.
 **3.
-**4. 
+**4.
 **5.
 **6.
 **7.
